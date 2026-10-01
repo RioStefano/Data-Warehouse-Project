@@ -1,0 +1,305 @@
+delivery_partner_id,name,partner_type,vehicle_type,phone,join_date,avg_rating,is_active
+D0001,Sanjana Kulshreshtha,third_party,scooter,+917458350449,2023-07-23,4.7,1
+D0002,Shyam Chhabra,third_party,bike,+917252922366,2021-12-02,3.8,1
+D0003,Parth Kaul,in_house,bike,+918699941976,2022-07-10,4.4,1
+D0004,Radhika Saxena,in_house,bike,+919726162721,2025-11-11,3.7,1
+D0005,Aniket Reddy,in_house,bike,+918638659026,2023-07-30,4.9,1
+D0006,  swati bhalla  ,in_house,scooter,+919217138911,2022-03-21,,1
+D0007,Gaurav Bansal,in_house,scooter,+918080708507,2021-04-14,3.6,0
+D0008,Aishwarya Rajan,in_house,scooter,+917871479214,2025-07-12,4.1,1
+D0009,Pallavi Reddy,third_party,scooter,+918349113206,2022-09-20,4.6,1
+D0010,Neha Luthra,third_party,scooter,+918406553776,2023-09-23!!!,4.0,1
+D0011,Rupal Dutta,in_house,scooter,+918589430232,2021-06-15,4.5,1
+D0012,gayatri menon,third_party,bike,+917756267842,2024-09-10,4.1,1
+D0013,Hemant Mukherjee,in_house,scooter,+918399934607,2022-10-14,4.1,1
+D0014,Malini Bhagat,third_party,bike,+919522305862,2023-01-30,4.0,0
+D0015,Lata Rao,in_house,bike,+918206360195,2023-04-19,4.9,1
+D0016,Varun Bhatia,in_house,scooter,+918503249368,2021-01-22,4.6,1
+D0017,Aniket Singh,in_house,bike,+919997706094,2025-10-04,3.6,1
+D0018,Rekha Kaul,in_house,scooter,+918647711747,2023-12-29,4.2,1
+D0019,Rahul Kaur,third_party,bike,+917806801484,2021-09-14,4.7,1
+D0020,Aarav Khandelwal,in_house,bike,+918539687239,2025-04-07,99999.0,1
+D0021,Siddharth Vyas,in_house,bike!!!,+919282245030,2025-01-21,4.1,1
+D0022,Aniket Shetty,third_party,bike,+919649013953,2023-09-06,3.5,1
+D0023,Ashok Mishra,third_party,bike,+918440841003,2024-03-29,3.2,1
+D0024,Suraj Patel,in_house,bike,+918003113804,2021-07-29,3.9,1
+D0025,Hemant Krishnamurthy,third_party,bike,+917615692179,2021-12-08,3.1,1
+D0026,Simran Kamat,in_house,scooter,+918697433912,2021-08-30,4.4,1
+D0027,Neha Naidu,third_party,scooter,+918364006626,2021-02-07,3.4,1
+D0028,Kunal Krishnan,third_party,scooter,+919566314157,2023-03-14,3.5,1
+D0029,Naveen Khanna,in_house,bike,+917474205925,2025-01-29,3.4,0
+D0030,Anusha Rathi,in_house,scooter,+918024917027 ,2023-07-24,3.4,1
+D0031,Kunal Reddy,in_house,scooter,+919367639158,2021-06-13,3.6,1
+D0032,sneha dubey,in_house,bike,+919304809103,2023-09-10,4.8,1
+D0033,Sunil Subramanian,third_party,scooter,+918827688547,2024-02-28,3.8,1
+D0034,Sandeep Khandelwal,third_party,bike,+918604872181,2021-06-30,5.0,1
+D0035,Ashok Shetty,third_party,bike,+917771245426,2024-02-13,4.1,1
+D0036,Sneha Gupta,in_house,bike,+917574829655,2025-11-25,4.1,1
+D0037,  Nirmala Dubey  ,in_house,bike,+918107324007,2021-08-08,4.2,1
+D0038,Sneha Iyer,in_house,scooter,+919550231089,2023-10-05,,1
+D0039,rahul mukherjee,in_house,scooter,+917627313838,2025-01-08,99999.0,1
+D0040,Suraj Ghosh,in_house,scooter,+918676582072,2025-10-10,4.9,0
+D0041,Kritika Rajan,in_house,scooter,+919456692128,2021-04-29,4.3,0
+D0042,Divya Chatterjee,in_house,scooter,+917011743595,2021-01-08,3.5,1
+D0043,  Rajiv Gokhale  ,in_house,scooter,+918270176489,2023-05-24,4.5,0
+D0044,Ashwin Goyal,third_party,bike,+918849665584,2021-07-21,3.3,0
+D0045,  Akash Patel  ,third_party,bike,+918630878046,2022-02-25,3.9,0
+D0046,Prakash Joshi,third_party,bike,+918821246291,2021-03-13,3.6,1
+D0047,Devendra Shetty,third_party,bike,+917683519224,2025-12-16,3.5,1
+D0048,Manish Agarwal,in_house,bike,+919655332662,2024-11-24,3.9,1
+D0049,Nisha Subramanian,in_house,bike,+918139788364 ,2023-06-28,3.6,1
+D0050,Tejas Sehgal,third_party,scooter,+917487581839,05-10-2022,4.4,1
+D0051,Neha Agarwal,third_party,scooter,+917000121295,2023-10-16,,1
+D0052,Tarun Tripathi,third_party,,+919828489314,2023-11-16,3.0,1
+D0053,  Harish Menon  ,third_party,scooter,+919426062698,2025-04-22,4.0,1
+D0054,seema goyal,third_party,bike,+919782470652,2021-10-08,4.7,1
+D0055,Anjali Rastogi,in_house,bike,+919265259838,2024-09-26,4.5,0
+D0056,Priya Goyal,third_party,bike,+917941889907 ,2022-06-08,4.5,1
+D0057,Omkar Gupta,third_party,scooter,+917933711957,2024-01-17,4.6,0
+D0058,Siddharth Verma,third_party,scooter,+917323181348,2021-04-19,4.9,1
+D0059,Ashok Oberoi,in_house,,+917028209469,2024-06-16,5.0,0
+D0060,Lata Ghoshal,in_house,scooter!!!,+917611935711,2024-08-05,4.8,1
+D0061,Prakash Bhatia,in_house,bike,+917304670120,2025-01-13!!!,4.9,0
+D0062,Siddharth Bansal,third_party,bike,+918702140794,2023-02-25,4.8,1
+D0063,Nandita Mohan,third_party,bike,+917514206103,2021-08-11,3.1,1
+D0064,Sameer Singh,third_party,bike,+918147993192,2025-02-15,4.1,1
+D0065,  vivek ranganathan  ,in_house,,+919599069690,2021-03-30,4.7,1
+D0066,Pallavi Agarwal,in_house,scooter,+919972054405,2021-08-16,4.8,1
+D0067,Siddharth Sehgal,in_house,bike,+917678410707,2021-12-27,3.5,0
+D0068,Sandeep Chhabra,third_party,bike,+918924455688,2025-09-18,3.6,0
+D0069,  Sonali Krishnamurthy  ,third_party,bike,+917416640611 ,2025-07-06,4.6,1
+D0070,Nandita Rastogi,in_house,bike,+918515205431,2025-06-24,4.1,1
+D0071,Rajesh Chauhan,in_house,scooter,+917951566697,2022-04-09,3.5,1
+D0072,  Alka Saxena  ,third_party,scooter,+918484051153,2024-04-11,3.6,1
+D0073,Tanvi Naidu,third_party,scooter!!!,+918278900743,2023-02-09,,1
+D0074,Swati Subramanian,in_house,scooter,+917474754576,2021-03-22,4.3,1
+D0075,Leela Saxena,third_party,scooter,+917176923415,2025-04-30,4.4,1
+D0076,Snehal Saxena,in_house,bike,+919181047750,2024-04-17,99999.0,1
+D0077,  Divya Bhattacharya  ,third_party,scooter,+918151276346,2025-06-30,4.7,1
+D0078,Seema Dutta,in_house,,+918549946581,2022-09-20,3.6,1
+D0079,  Kavya Tyagi  ,third_party,scooter,+918605023746,2022-08-29,4.3,1
+D0080,Lata Gupta,in_house,scooter,+919988830596,2023-03-31,4.0,0
+D0081,  Devendra Bhardwaj  ,third_party,bike,+918849451197,2021-05-28,4.3,1
+D0082,Alka Menon,third_party,scooter,+918027648148,2022-10-22,4.4,0
+D0083,Karan Pathak,third_party,bike,+918679512689,2024-12-02,3.6,1
+D0084,Manish Jha,in_house,scooter,+917262366456,2024-10-23,3.4,1
+D0085,Aditi Shukla,in_house,,+919965612030,2022-09-07,4.1,1
+D0086,  Gaurav Bhagat  ,in_house,bike!!!,+918099901552,2025-12-08,4.6,1
+D0087,ananya kulkarni,third_party,bike,+919879499797,2025-07-24,4.4,1
+D0088,Hemant Shukla,in_house,scooter,+917553121659,2025-11-09,4.5,1
+D0089,Yogesh Sharma,third_party,scooter,+918450075111 ,2024-04-26,3.1,1
+D0090,Kavita Banerjee,in_house,scooter,+918935812666,2021-08-10,99999.0,1
+D0091,Aishwarya Chhabra,third_party,scooter,+919402711072,07-05-2021,4.3,0
+D0092,Nandita Solanki,third_party,scooter,+917250327176,2024-01-10,4.6,1
+D0093,yogesh vyas,in_house,bike,+918090742113,2023-11-05,4.2,1
+D0094,Vivek Desai,third_party,scooter,+919550323511,2025-07-05,4.2,1
+D0095,Deepak Saxena,third_party,scooter,+918918636001,2022-09-01,4.9,0
+D0096,Suresh Nair,in_house,scooter,+919861352078,2025-05-09,5.0,0
+D0097,Kavya Singh,third_party,bike,+918849384560,2021-04-21,3.6,1
+D0098,Manish Rastogi,third_party,bike,+917895572198,2022-03-28,3.7,1
+D0099,  Arvind Banerjee  ,third_party,bike,+917141398338,2021-03-23,4.9,0
+D0100,Poonam Bose,third_party,bike,+918291873295,22-06-2025,4.5,0
+D0101,  ishita chatterjee  ,in_house,bike!!!,+918098549650,2023-07-18,4.4,1
+D0102,  Tarun Pillai  ,third_party,scooter,+917661679337,2021-09-29,4.3,0
+D0103,Gaurav Ghosh,third_party,scooter,+918084100157,2022-12-09,3.1,1
+D0104,  Tanvi Kaur  ,in_house,scooter,+917340469874,2024-12-12,99999.0,1
+D0105,Priya Venkatesh,in_house,bike,+918293018036,2021-12-18,4.7,1
+D0106,Aditya Chatterjee,third_party,scooter,+918209299453,2022-05-03,5.0,1
+D0107,Vivek Raghavan,third_party,scooter,+919381559562,2024-08-24,4.5,1
+D0108,Omkar Sethi,third_party,scooter,+919936021562,2022-06-21,3.7,1
+D0109,Tanvi Ranganathan,third_party,scooter,+919068352736,2023-10-26,3.9,1
+D0110,Kusum Sethi,in_house,bike,+919262820098,2023-11-26,3.9,1
+D0111,shyam solanki,third_party,,+918332489533,2021/05/09,3.0,1
+D0112,Hemant Bansal,in_house,bike,+918990972612,2024-07-28,4.3,1
+D0113,Yogesh Prasad,in_house,bike,+919613474994,2025-06-07,4.9,1
+D0114,Suresh Sinha,third_party,bike,+918306218250,2025-04-15,3.9,0
+D0115,Tanvi Bhat,third_party,bike,+917965234920,2025-05-05,4.9,1
+D0116,jatin reddy,third_party,bike!!!,+919148858080,2021-06-03,4.3,1
+D0117,varun banerjee,in_house,bike,+919098502296,2025-06-23,4.8,1
+D0118,Ashok Menon,in_house,scooter,+918570729012,2022-04-20,3.4,0
+D0119,Rajesh Krishnan,in_house,bike,+919110520334,2024-10-27,4.3,1
+D0120,Rajesh Kohli,in_house,bike,+917545753571,2022-07-31,3.4,1
+D0121,Naveen Kohli,third_party,bike,+918507583055,2021-01-26,4.8,1
+D0122,Nisha Agarwal,in_house,scooter,+917652911275,2022-12-07,3.5,1
+D0123,Anupam Rajan,in_house,scooter,+919932958810,2023-04-13,3.2,1
+D0124,Sonali Pillai,third_party,bike,+918932016119,2022-02-23,3.2,1
+D0125,Poonam Vora,third_party,scooter,+918590724246,2021-05-10,4.7,1
+D0126,Ishita Solanki,third_party,scooter,+918033454841,2024-08-23,3.4,1
+D0127,Tarun Pillai,third_party,scooter,+917005950646,2021-04-24,4.7,1
+D0128,Seema Ranganathan,third_party,bike,+918663157922,2021-03-01,4.9,1
+D0129,Akash Banerjee,third_party,bike,+919295820051,2021-09-30,3.6,1
+D0130,Poonam Khandelwal,in_house,scooter,+918177602967,2022-12-20,3.7,1
+D0131,Sneha Gokhale,third_party,bike,+917183362699,2025-06-21,4.9,1
+D0132,Seema Vyas,third_party,scooter,+918427817445,Nov 07 2023,4.1,1
+D0133,  Gayatri Menon  ,third_party,bike,+917012316463,2025-07-21,3.1,1
+D0134,Naveen Pillai,in_house,bike,+917149081985,2024-11-11,4.4,1
+D0135,Bhavana Choudhary,in_house,scooter,+917199626618 ,2022-05-16,4.6,1
+D0136,Ritu Sinha,in_house,scooter,+918186500517,2022-10-24,3.4,1
+D0137,devendra dubey,third_party,scooter,+919763050489,2025-07-19,4.7,1
+D0138,Abhishek Sinha,in_house,scooter,+918020372774,2021-10-01,3.6,1
+D0139,Vandana Kapoor,in_house,scooter,+919472312221,2023-07-09,4.5,1
+D0140,Kavita Das,in_house,scooter,+919131049041,2024-07-24,99999.0,0
+D0141,Pooja Bedi,in_house,scooter,+918083450219,2023-03-04,4.7,1
+D0142,Tejas Kaul,third_party,scooter,+918924642183,2023-02-04,3.8,1
+D0143,Sunil Gupta,in_house,scooter,+918448907375,2021-03-01,3.3,0
+D0144,Amrita Iyer,in_house,bike,+919402929110,2021-01-30,99999.0,1
+D0145,Ritu Sehgal,third_party,bike,+919632434771,2025-01-17,3.3,1
+D0146,Roshni Oberoi,in_house,scooter,+919785274768,2022-07-05,4.6,1
+D0147,anjali desai,third_party,scooter,+918645072299,2022-06-04,4.9,1
+D0148,Alka Saxena,in_house,bike,+917512595418,2021-09-26,3.1,1
+D0149,aarav das,in_house,scooter,+917201693176,2024-01-03,4.5,1
+D0150,Kritika Bhonsle,third_party,bike,+917317307573,2022-12-25,3.9,1
+D0151,Kritika Rastogi,third_party,bike,+918259651589,2024-12-07,3.6,1
+D0152,Roshni Pathak,third_party,scooter!!!,+917445869892,2022-12-23,3.5,1
+D0153,Vikas Kaur,third_party,bike,+917712406730,2023-10-17,4.7,1
+D0154,Kavita Oberoi,third_party,bike,+917272487158 ,2022-08-20,4.7,0
+D0155,Swati Kaur,in_house,bike,+918082511817,2021-10-26,3.5,1
+D0156,Shweta Agarwal,in_house,scooter,+918813270475,2023-11-11,4.1,1
+D0157,  Aditi Krishnamurthy  ,in_house,bike,+917286702298,2022-07-11,3.5,1
+D0158,Arvind Prasad,third_party,scooter,+919382796992,2023-08-15,4.3,1
+D0159,Harish Rao,in_house,scooter,+917721987252,2024-08-26!!!,3.6,1
+D0160,Manish Das,in_house,bike,+917150824462,2021-02-07,,1
+D0161,Swati Banerjee,third_party,scooter,+918507032323,2024-06-09!!!,4.5,1
+D0162,Charu Raval,in_house,scooter,+919863459921,2025-12-05,,1
+D0163,Siddharth Oberoi,in_house,,+918950003954,2025-03-06,3.2,1
+D0164,Kritika Rathi,third_party,bike,+917833726787,2021-08-01,3.8,1
+D0165,simran nair,third_party,bike,+918302959142,2023-08-31,4.2,1
+D0166,Ishani Mehta,in_house,bike,+918936796416,2023-07-18,3.4,1
+D0167,  Prakash Choksi  ,in_house,scooter,+917269809663,2024-05-14,3.9,1
+D0168,Devendra Oberoi,third_party,scooter,+919267397287,2021-12-07,3.4,1
+D0169,Manish Subramanian,third_party,scooter,+919088687070,2022-04-04,3.9,1
+D0170,anusha sundar,in_house,scooter,+917716407697,2023-03-31,3.4,1
+D0171,Tarun Solanki,in_house,bike,+917183727035,2021-10-30,4.6,1
+D0172,Manish Chauhan,in_house,scooter,+917912214974,2021-01-29,4.7,1
+D0173,aniket kohli,third_party,bike,+918165372474,2023-02-02,4.3,1
+D0174,Parth Sehgal,third_party,scooter,+919903397943,2023-05-19,4.6,1
+D0175,Alka Kohli,in_house,scooter,+918126704877,2025-01-20,4.4,1
+D0176,Sunil Phadke,third_party,bike!!!,+919985395913,2022-06-13,4.9,1
+D0177,Rahul Venkatesh,third_party,scooter,+918805601221,2025-05-13,4.5,1
+D0178,Meera Subramanian,third_party,scooter,+917924753985,2021-02-04,3.5,1
+D0179,devendra shetty,third_party,bike,+918147146709,2025-12-27,3.8,1
+D0180,  Ananya Gupta  ,third_party,scooter,+918319078620,2021-04-30,3.1,1
+D0181,Suresh Ghosh,third_party,scooter,+918674397932,2022-05-17,3.6,0
+D0182,Bhavna Menon,in_house,scooter,+919338243081,2021-06-29,4.7,1
+D0183,Meera Vora,third_party,bike,+918825991237,2024-12-06,3.0,0
+D0184,Aishwarya Khandelwal,third_party,scooter,+919592338088,2022-09-10,4.6,1
+D0185,Anjali Banerjee,in_house,scooter,+918770296383,2025-01-06,3.0,1
+D0186,Anupam Chaturvedi,in_house,bike,+917082402249,2021-08-12,3.8,1
+D0187,Sanjana Mukherjee,in_house,bike,+919135308378,2022-06-07,3.7,1
+D0188,pooja kaul,in_house,scooter,+917591938133,2025-08-18,3.4,0
+D0189,  Devendra Sinha  ,in_house,bike,+917078577873,19-05-2023,3.4,1
+D0190,Simran Reddy,third_party,bike,+919585035670,2023-01-31,3.8,1
+D0191,Naveen Chauhan,third_party,scooter,+919585040638,2024-11-12,3.3,1
+D0192,Rohit Mohan,in_house,scooter,+919899425684,2022-01-06,3.7,0
+D0193,Alka Kohli,in_house,bike,+918721528338,2024-11-22,3.9,1
+D0194,Suresh Bose,third_party,scooter,+919672302813,2024-09-12,4.0,1
+D0195,Siddharth Mohan,in_house,bike,+918338371657,2022-08-08,3.5,1
+D0196,Anjali Solanki,third_party,bike,+918007192804,2025-06-25,3.9,1
+D0197,Sonali Banerjee,third_party,scooter,+917246902774,2022-08-11,3.9,1
+D0198,Aishwarya Desai,in_house,scooter,+918994302391,2023-02-02,3.2,1
+D0199,Varun Rajan,in_house,scooter,+918154156434,2022-12-13,3.2,0
+D0200,Priya Kulshreshtha,third_party,scooter,+919219562496,2024-04-05!!!,3.3,1
+D0201,Meera Kapoor,in_house,scooter,+919151493925,2025-09-15,4.8,1
+D0202,ashok saxena,third_party,scooter,+917506407263 ,2023-01-15,3.2,1
+D0203,Vikas Tripathi,in_house,scooter,+919059023436,2025-12-16,4.0,1
+D0204,Amrita Narayan,in_house,bike,+919815104880,2023-05-21!!!,4.3,0
+D0205,Suraj Saxena,third_party,bike,+919287407218,2022-04-26,4.0,0
+D0206,Ashok Dutta,in_house,bike,+919997193814,2025-12-14,4.6,1
+D0207,  Omkar Krishnan  ,third_party,scooter,+919705786261,2021-08-06,5.0,1
+D0208,Pranav Mohan,third_party,scooter,+917335262229,2025-06-22,4.5,1
+D0209,  Sunil Rawat  ,in_house,scooter,+918269398226,2021-04-05,3.1,1
+D0210,Roshni Chauhan,third_party,bike,+919084731000,2024-07-24,4.5,0
+D0211,Anjali Kohli,in_house,scooter,+918033723028,2021-06-16,4.3,1
+D0212,aarav krishnan,third_party,scooter,+918652469128,2023-03-17,4.2,1
+D0213,Sanjana Mathur,third_party,bike,+917576280029,2023-02-28,3.1,1
+D0214,Anusha Ranganathan,third_party,scooter,+918739386467,2025-11-28,4.2,1
+D0215,Rajiv Vora,third_party,bike,+919037492920,2025-05-02,,1
+D0216,Aditya Singh,third_party,scooter,+918895104760 ,2022-04-02,4.7,1
+D0217,Nisha Luthra,third_party,scooter,+918218179917,2023-12-19,3.6,1
+D0218,Siddharth Solanki,third_party,scooter,+917280857991,2024-01-10,3.6,0
+D0219,Ishita Banerjee,third_party,scooter,+918305480081,May 05 2024,4.1,1
+D0220,Nisha Saxena,in_house,bike,+917450804597,2023-03-07,3.3,1
+D0221,Vikas Subramanian,third_party,bike,+918020089444,2021-07-01,4.7,1
+D0222,Charu Tiwari,third_party,scooter,+917129555909,2023-12-22,3.6,1
+D0223,harsh bhardwaj,in_house,scooter,+919512415302,2022-07-21,3.0,1
+D0224,Vivek Sharma,in_house,bike,+917227483988,2023-02-23,4.1,1
+D0225,Arvind Nair,in_house,bike,+918141789428 ,2023-02-20,,1
+D0226,Nisha Dubey,in_house,bike,+918340472517,2025-05-07,3.0,0
+D0227,poonam saxena,in_house,bike,+918190891990,2025-05-05,3.6,0
+D0228,Aarav Rajan,in_house,bike,+917114469232 ,2023-05-08,3.3,1
+D0229,Simran Subramanian,in_house,scooter,+917662025674,2021-04-15,4.7,1
+D0230,Devendra Saxena,in_house,bike,+919398359826,2021-11-07,4.3,1
+D0231,leela kulshreshtha,in_house,bike,+917125162310,2024-09-22,4.7,1
+D0232,Harish Ghoshal,in_house,bike,+918927165366,2023-07-12,4.6,1
+D0233,Anjali Choudhary,third_party,scooter,+917057435402,2021-02-22,3.1,1
+D0234,Nirmala Gupta,third_party,bike,+918589595585,2024-06-19,3.6,1
+D0235,Tanvi Shetty,third_party,bike,+917412331772,2022-12-01,3.9,1
+D0236,Prakash Tyagi,in_house,scooter,+918969152266,2022-12-24,4.0,1
+D0237,Dinesh Sharma,in_house,bike,+918249427062,2025-04-29,4.2,1
+D0238,Ashok Shukla,in_house,scooter,+917072104876,2024-12-19,4.6,1
+D0239,Kavita Mukherjee,third_party,scooter,+917259149378,2024-12-22,3.4,1
+D0240,Divya Kulkarni,third_party,scooter,+918245307832,2021-11-11,4.3,0
+D0241,Naveen Bhalla,in_house,scooter,+917095417030,2021-01-17,3.7,1
+D0242,Harish Pillai,in_house,scooter,+918150437668 ,2021-07-16,4.2,1
+D0243,Vijay Yadav,in_house,bike,+918020428370,2021-07-09,3.6,1
+D0244,Poonam Mukherjee,in_house,scooter,+919046980903,2023-08-26,3.6,0
+D0245,Suraj Choksi,third_party,bike,+917134620474,2021-10-31!!!,4.2,1
+D0246,Kusum Bose,in_house,bike,+918397332753,2023-02-11,,1
+D0247,Rohit Patel,in_house,,+917375301250,2022-04-27,3.2,0
+D0248,Anusha Shukla,third_party,scooter,+917873929370,2022-01-15,3.6,1
+D0249,Tanvi Prasad,in_house,scooter,+918649482072,2023-09-11,3.9,1
+D0250,Sneha Kulkarni,third_party,scooter,+917236027702,2024-12-19,4.2,1
+D0251,Tejas Chatterjee,in_house,bike,+917115845356,Apr 22 2022,,1
+D0252,Leela Tiwari,in_house,bike,+917705337579,2023-06-07,3.6,1
+D0253,Meera Kohli,in_house,scooter,+917841048113,2022-11-03,3.1,1
+D0254,Tanvi Chaturvedi,in_house,scooter,+918418971806,2025-10-18,4.6,1
+D0255,Anjali Joshi,third_party,bike,+918588064968,2022-03-11,4.5,1
+D0256,Siddharth Subramanian,third_party,scooter,+919034626328,2024-12-10,3.9,1
+D0257,nandita chauhan,in_house,scooter,+917812526198,2023-12-05,3.1,1
+D0258,Poonam Iyer,third_party,scooter,+917784674222,2021-06-16,3.1,1
+D0259,Nirmala Tyagi,third_party,bike,+919666572442 ,2025-02-26,3.3,0
+D0260,Tarun Kohli,in_house,scooter,+918574964956,2021-03-12,4.2,1
+D0261,Akash Jha,in_house,scooter,+919961031179,2025-01-17,3.4,1
+D0262,Rohan Jain,in_house,bike,+918811274531,2024-03-12,3.5,1
+D0263,Shreya Das,in_house,scooter,+918734673150,2024-04-05,4.5,1
+D0264,Aditi Solanki,in_house,scooter,+918985640990,2025-10-05,3.9,1
+D0265,Devendra Sethi,in_house,scooter,+917512910640,2024-02-01,4.8,0
+D0266,Hemant Phadke,in_house,scooter,+919360831766,2021-09-01!!!,3.6,1
+D0267,Simran Kohli,third_party,scooter,+919188474756 ,2023-11-05,3.3,1
+D0268,Nikhil Shukla,third_party,bike,+917972503498,2021-06-24,4.8,1
+D0269,Abhishek Joshi,in_house,bike,+918087214328,2024-12-06,4.2,1
+D0270,Devendra Menon,in_house,scooter,+919720340971,2023-11-19,4.5,1
+D0271,Poonam Tripathi,in_house,scooter,+918208029564,2025-11-08,3.6,1
+D0272,Devendra Narayan,in_house,bike,+918100364210,2024-07-09,3.6,1
+D0273,Seema Kamat,in_house,bike,+917394591071,2022-01-18,4.6,1
+D0274,  Tanvi Chhabra  ,in_house,scooter,+918860532056,2021-03-29,3.6,1
+D0275,Kavya Kamat,third_party,bike,+917884459925,2023-06-27,3.3,1
+D0276,Anjali Oberoi,in_house,bike,+917053765131,2023-11-29,3.8,1
+D0277,  Divya Kaur  ,third_party,bike,+918218034002,2022-11-02,3.1,1
+D0278,Vikas Bhatia,in_house,scooter,+917476243480,2023-05-25,3.5,1
+D0279,Rohan Choksi,in_house,bike,+919278795732,2022-01-02,3.6,1
+D0280,Siddharth Patel,third_party,bike,+917458737425,2021-06-10,4.2,1
+D0281,Shweta Bhat,third_party,scooter,+919221222905 ,2024-04-10!!!,4.2,1
+D0282,  Lata Kapoor  ,in_house,bike,+918878492089,2024-02-29,4.5,0
+D0283,Bhavana Kulkarni,third_party,scooter,+919017609061,2023-08-05,4.4,1
+D0284,Siddharth Bansal,in_house,scooter,+918470229270,2023-07-13,3.3,1
+D0285,Nirmala Raghavan,in_house,scooter,+919535086996,2022-11-19!!!,3.4,1
+D0286,Jatin Saxena,in_house,bike,+918993317892,2024-04-10,5.0,1
+D0287,Varun Bhagat,in_house,bike,+919633512955,2024-07-21,3.4,1
+D0288,Seema Kohli,in_house,scooter,+919507609675,2025-01-01,3.2,1
+D0289,gaurav patel,third_party,bike,+917233713289,2025-01-26,5.0,1
+D0290,Ashok Chatterjee,in_house,scooter,+918200709832,2024-11-16,4.6,1
+D0291,Harsh Yadav,in_house,bike,+918929737895,2021-01-10,4.5,1
+D0292,Meera Bansal,in_house,scooter,+918308633281,10-01-2021,4.1,1
+D0293,Priya Mishra,in_house,scooter,+919016278737,2024-03-15,4.8,0
+D0294,Aarav Kohli,third_party,scooter,+918065038858,2021-11-14,3.6,1
+D0295,Shyam Chawla,in_house,bike,+918755120012,2024-10-12,3.9,0
+D0296,Omkar Sethi,in_house,scooter,+918052943316,2021-02-26,3.6,1
+D0297,Akash Gupta,in_house,bike,+919096882415,2023-01-26,3.9,1
+D0298,lata menon,third_party,bike,+918906266795,2025-10-09,3.0,1
+D0299,Aishwarya Kapoor,in_house,scooter,+918821048348,2023-01-15!!!,3.2,1
+D0300,Bhavana Mathur,third_party,bike,+917875789276,2023-02-20,3.4,1
+D0113,Yogesh Prasad,in_house,bike,+919613474994,2025-06-07,4.9,1
+D0274,  Tanvi Chhabra  ,in_house,scooter,+918860532056,2021-03-29,3.6,1
+D0062,Siddharth Bansal,third_party,bike,+918702140794,2023-02-25,99999.0,1
+D0102,  Tarun Pillai  ,third_party,scooter,+917661679337,2021-09-29,4.3,0

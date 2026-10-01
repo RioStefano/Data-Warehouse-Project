@@ -1,0 +1,184 @@
+item_id,item_name,category,cuisine,is_veg,is_available,selling_price
+I0001,Rogan Josh,Main!!!,Indian,1.0,1,254
+I0002,Pav Bhaji,Main,Italian,1.0,1,480
+I0003,Peda,Dessert,Italian,1.0,1,304
+I0004,Garlic Naan,Main,Chinese,1.0,0,204
+I0005,Brownie,Dessert,Indian,1.0,1,485
+I0006,Paneer Lababdar,Main,Chinese,1.0,1,408
+I0007,Thalassery Biryani,Main,Chinese,1.0,1,174
+I0008,Chocolate Lava Cake,Dessert,Italian###,1.0,1,138
+I0009,Crispy Corn,Main,Indian,,1,470
+I0010,Red Bull,Beverage,Chinese,1.0,1,105
+I0011,Aloo Paratha,Main,Indian,1.0,1,303
+I0012,White Sauce Pasta,Main,Indian,1.0,1,232
+I0013,Coca Cola,Beverage,Chinese,1.0,1,276
+I0014,Chicken Tikka,Starter,Italian,0.0,1,108
+I0015,Chicken Burger,Main,Italian,0.0,0,379
+I0016,Keema Biryani,Main!!!,Chinese,0.0,1,367
+I0017,Paneer Bhurji,Main,Chinese,1.0,1,157
+I0018,Bhindi Masala,Main!!!,Chinese,1.0,1,495
+I0019,Dum Aloo,Main!!!,Italian,1.0,1,324
+I0020,Hara Bhara Kebab,Starter!!!,Indian,1.0,1,495
+I0021,Chilli Paneer,Main,Indian,1.0,1,294
+I0022,Soup of the Day,Starter,Indian,1.0,1,239
+I0023,Samosa,,Indian,1.0,0,466
+I0024,Paneer Tikka,Starter,Italian,1.0,1,250
+I0025,Halwa,Dessert,Italian,1.0,1,146
+I0026,Vada,Main,Chinese###,1.0,1,446
+I0027,Coconut Water,Beverage,Chinese,1.0,1,108
+I0028,Chicken Korma,Main,Italian,0.0,1,126
+I0029,Gushtaba,Main,Indian,1.0,1,404
+I0030,Egg Biryani,Main,Chinese,0.0,1,320
+I0031,,,Indian,1.0,1,178
+I0032,Wrap Frankie,Main,Chinese,1.0,1,263
+I0033,Yakhni Pulao,Main,Italian,1.0,1,184
+I0034,Rose Sharbat,Beverage,Indian,1.0,1,145
+I0035,Aloo Tikki,Starter,Italian,1.0,0,294
+I0036,Pyaz Kachori,Main,Italian,1.0,1,494
+I0037,Mushroom Soup,Starter,Italian,1.0,1,151
+I0038,Phirni,Dessert,Italian,1.0,1,135
+I0039,Orange Juice,Beverage,Chinese,1.0,1,470
+I0040,Gnocchi,Main,Indian,1.0,1,267
+I0041,Buttermilk,Beverage,Chinese,1.0,1,395
+I0042,Kadai Chicken,Main,Italian,0.0,0,110
+I0043,Bruschetta,Starter,Chinese,1.0,1,484
+I0044,Lemon Rice,Main,Indian,1.0,1,212
+I0045,Sprite,Beverage,Indian,1.0,1,434
+I0046,Thali Veg,Main,Indian,1.0,1,478
+I0047,Masala Dosa,Main,Indian,1.0,1,279
+I0048,Matar Paneer,Main,Indian,1.0,0,228
+I0049,Onion Rings,Starter!!!,Italian,1.0,0,302
+I0050,Chicken Biryani,Main,Chinese,0.0,1,499
+I0051,Mutton Biryani,Main,Chinese,0.0,0,319
+I0052,Tom Yum Soup,Main,Chinese,1.0,1,361
+I0053,Curd Rice,Main,Chinese,1.0,1,273
+I0054,Gajar Halwa,Dessert,Indian###,1.0,1,477
+I0055,Risotto Mushroom,Main,Indian,1.0,1,359
+I0056,Jeera Rice,Main,Italian,1.0,1,278
+I0057,Veg Biryani,Main,Indian,1.0,1,451
+I0058,Chole Bhature,Main,Indian,1.0,1,114
+I0059,Odia Thali,Main,Chinese###,1.0,1,437
+I0060,Dahi Puri,Starter,Italian,1.0,1,254
+I0061,Paratha,Main,Chinese,1.0,1,163
+I0062,Dal Makhani,Main,Chinese,1.0,1,383
+I0063,Tomato Soup,Starter,Indian,-1.0,1,300
+I0064,,Main,Indian,0.0,1,462
+I0065,Cheesecake,Dessert,Indian,1.0,0,231
+I0066,Coconut Rice,Main,Italian,1.0,1,127
+I0067,Prawn Masala,Main,Chinese,0.0,1,179
+I0068,Dal Tadka,Main,Italian,1.0,1,343
+I0069,Rabri,Dessert,Indian,1.0,1,235
+I0070,Pasta Arrabiata,Main,Chinese,1.0,1,186
+I0071,Tacos,Main,Chinese,1.0,1,466
+I0072,Malpua,Dessert,Indian,1.0,1,270
+I0073,Malai Kofta,Main,Chinese,1.0,1,225
+I0074,Gujrati Thali,Main,Indian,1.0,1,253
+I0075,Garlic Bread,,Chinese,-1.0,1,204
+I0076,Kashmiri Wazwan,Main,Italian,1.0,1,233
+I0077,Idli Sambar,Main,Chinese,1.0,1,152
+I0078,Chicken Saag,Main,Indian###,0.0,1,343
+I0079,Kheer,Dessert!!!,Indian,1.0,1,167
+I0080,Pepsi,Beverage,Indian,1.0,1,286
+I0081,Cheese Burst Pizza,Main,Indian,1.0,1,490
+I0082,Pepperoni Pizza,Main,Chinese,0.0,1,387
+I0083,Tiramisu,Dessert,Indian,1.0,1,237
+I0084,Mutton Curry,Main,Chinese,0.0,1,294
+I0085,,Main,Chinese,1.0,1,268
+I0086,Fanta,Beverage,Italian,1.0,1,176
+I0087,Veg Spring Roll,Starter,Italian,1.0,1,169
+I0088,Fish Tikka,Starter,Chinese,0.0,1,466
+I0089,Chicken Fried Rice,Main,Chinese,0.0,1,105
+I0090,Uttapam,Main,Indian,1.0,0,178
+I0091,Maharashtrian Thali,Main,Indian,1.0,1,128
+I0092,Mac and Cheese,Main,Italian,1.0,0,418
+I0093,Tandoori Roti,Main,Indian,1.0,1,350
+I0094,Watermelon Juice,Beverage,Chinese###,1.0,1,340
+I0095,Chicken Seekh Kebab,Starter,Italian,0.0,1,179
+I0096,Baingan Bharta,Main,Indian,1.0,1,466
+I0097,Burrito Bowl,Main,Indian,1.0,1,363
+I0098,Ice Cream Sundae,Dessert,Indian,1.0,0,379
+I0099,Falafel Wrap,,Indian,1.0,0,216
+I0100,Paneer Butter Masala,Main,Indian,1.0,0,455
+I0101,,,Chinese,0.0,1,163
+I0102,Dosa Masala,Main,Italian,1.0,1,167
+I0103,Mushroom Masala,Main,Indian,1.0,1,390
+I0104,Caesar Salad,Starter,Italian,1.0,1,131
+I0105,Chicken Lollipop,Main,Italian,0.0,1,301
+I0106,Quesadilla,Main,Chinese,1.0,1,224
+I0107,Kulfi,Dessert,Indian,1.0,1,368
+I0108,Filter Coffee,Beverage,Chinese,1.0,0,202
+I0109,Jalebi,Dessert,Indian,-1.0,0,267
+I0110,BBQ Chicken Pizza,,Italian,0.0,1,495
+I0111,Mutton Keema,Main,Indian,0.0,1,454
+I0112,Tangdi Kebab,Main,Indian,1.0,1,206
+I0113,Grilled Sandwich,Main,Italian,1.0,1,246
+I0114,Veg Momos,Main,Indian,1.0,1,450
+I0115,Green Tea,Beverage,Chinese,1.0,1,399
+I0116,Veggie Burger,Main,Chinese,0.0,1,122
+I0117,Egg Fried Rice,Main,Chinese,0.0,1,330
+I0118,Galouti Kebab,Main,Chinese,1.0,1,250
+I0119,Barfi,Dessert,Italian,1.0,1,135
+I0120,Lamb Chops,Main,Chinese,0.0,1,443
+I0121,Chicken Momos,Main,Chinese,0.0,1,431
+I0122,Biryani Dum Pot,,Chinese,1.0,1,411
+I0123,Saag Aloo,Main,Italian,1.0,1,309
+I0124,Besan Ladoo,Dessert,Italian,1.0,1,411
+I0125,Motichoor Ladoo,Dessert,Italian,1.0,1,196
+I0126,Gulab Jamun,Dessert,Indian,1.0,1,495
+I0127,Dum Gosht,Main,Chinese,1.0,1,199
+I0128,Mozzarella Sticks,Starter,Indian,1.0,1,385
+I0129,Chicken 65,Main,Chinese,0.0,1,345
+I0130,Rumali Roti,Main,Indian,1.0,1,122
+I0131,Hyderabadi Biryani,Main!!!,Indian###,1.0,1,294
+I0132,Penne Pesto,Main!!!,Chinese,1.0,1,377
+I0133,Rasgulla,Dessert,Italian,1.0,1,238
+I0134,Mix Veg Curry,Main,Italian,1.0,1,483
+I0135,Thali Non-Veg,Main,Indian,1.0,1,182
+I0136,Virgin Mojito,Beverage,Indian,1.0,1,235
+I0137,,Main,Indian,1.0,1,139
+I0138,Cold Coffee,Beverage,Chinese,1.0,1,295
+I0139,Medu Vada,,Indian,1.0,1,238
+I0140,,Main,Indian,1.0,1,326
+I0141,Prawn Biryani,Main,Italian,0.0,1,204
+I0142,Rajasthani Thali,Main,Indian,1.0,1,347
+I0143,Egg Curry,Main,Indian,0.0,0,284
+I0144,Chilli Chicken,Main,Chinese,0.0,1,218
+I0145,Bedmi Puri,Main,Italian,1.0,1,334
+I0146,Pulao,Main,Chinese,1.0,1,283
+I0147,Mango Lassi,Beverage!!!,Indian,1.0,1,222
+I0148,Dim Sum Basket,Main,Indian,1.0,1,233
+I0149,Veg Manchurian,Starter,Italian,1.0,1,346
+I0150,Fish Curry,Main,Italian,0.0,1,270
+I0151,Enchilada,,Chinese,1.0,1,279
+I0152,Butter Naan,Main,Indian,1.0,1,178
+I0153,Aloo Gobi,Main,Indian,1.0,1,205
+I0154,Palak Paneer,Main,Italian,1.0,1,378
+I0155,Thandai,Beverage,Italian,1.0,1,237
+I0156,Hakka Noodles,Main,Indian,1.0,1,140
+I0157,Shammi Kebab,Main,Chinese,1.0,0,480
+I0158,Nachos,Main,Chinese,1.0,1,334
+I0159,Red Sauce Pasta,Main,Indian,1.0,0,196
+I0160,Pineapple Juice,Beverage,Indian,1.0,1,359
+I0161,Fresh Lime Soda,Beverage,Chinese,1.0,1,154
+I0162,,Main,Italian,1.0,1,208
+I0163,Seekh Kebab Platter,Main,Chinese,0.0,1,382
+I0164,Lasagna,Main,Chinese,1.0,1,141
+I0165,Mint Lemonade,Beverage,Indian,1.0,1,150
+I0166,Sweet Sour Veg,Main,Indian,1.0,1,456
+I0167,Shahi Tukda,Dessert,Indian,1.0,1,133
+I0168,Schezwan Noodles,Main,Chinese,1.0,1,148
+I0169,Boti Kebab,Main,Italian,0.0,1,468
+I0170,Burrito,Main,Italian,1.0,1,180
+I0171,Butter Chicken,Main,Chinese,0.0,0,498
+I0172,Spaghetti Bolognese,Main,Italian,1.0,1,350
+I0173,Club Sandwich,Main,Chinese,1.0,1,221
+I0174,Mutton Rogan Josh,Main,Indian,0.0,1,260
+I0175,Kadhi Pakora,Main,Chinese,1.0,1,499
+I0176,Chicken Chettinad,Main,Chinese,0.0,1,450
+I0177,Fish Fry,Main,Italian,0.0,1,277
+I0178,Greek Salad,Starter,Italian,1.0,1,221
+I0179,,Beverage,Chinese,1.0,1,346
+I0180,Veg Fried Rice,Main,Italian,-1.0,1,156
+I0152,Butter Naan,Main,Indian,1.0,1,178
+I0136,Virgin Mojito,Beverage,Indian,1.0,1,235
+I0142,Rajasthani Thali,Main,Indian,1.0,0,347
